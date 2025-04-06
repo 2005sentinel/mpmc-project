@@ -1,0 +1,13 @@
+# Node
+node_modules/
+dist/
+.env
+
+# Embedded
+*.hex
+*.bin
+build/
+
+# OS
+.DS_Store
+Thumbs.db
